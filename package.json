@@ -1,0 +1,23 @@
+{
+  "name": "wordpress-db",
+  "version": "0.1.0",
+  "description": "a useful toolkit for wordpress database",
+  "main": "./wordpress-db.js",
+  "keywords": [
+    "wordpress",
+    "database"
+  ],
+  "dependencies": {
+    "mysql": "*"
+  },
+  "repository": {
+    "url": "git://github.com/heysdk/wordpress-db.git"
+  },
+  "author": "heysdk",
+  "license": "MIT",
+  "homepage": "https://github.com/heysdk/wordpress-db",
+  "bugs": {
+    "url": "https://github.com/heysdk/wordpress-db/issues"
+  },
+  "readmeFilename": "README.md"
+}
